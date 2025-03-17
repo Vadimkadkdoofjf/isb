@@ -1,0 +1,11 @@
+
+{
+  "task_2" :
+  {
+   "input_file": "task_2/encrypted_text.txt",
+    "output_file": "task_2/output2.txt",
+    "freq": "task_2/my_freq.json",
+    "key": "task_2/key2.json",
+    "russian_freq": "task_2/freq.json"
+  }
+}
