@@ -1,0 +1,8 @@
+{
+  "task_1" :
+  {
+    "input_file" : "task_1/input.txt",
+    "output_file" : "task_1/output_text.txt",
+    "key" : "task_1/key.json"
+  }
+}
