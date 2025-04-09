@@ -1,0 +1,5 @@
+{
+  "cpp_seq": "sequences/cpp_seq.txt",
+  "java_seq": "sequences/java_seq.txt",
+  "result": "res.json"
+}
