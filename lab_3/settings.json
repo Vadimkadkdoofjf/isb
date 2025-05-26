@@ -1,8 +1,0 @@
-{
-  "symmetric_key": "keys/symmetric_key.bin",
-  "public_key": "keys/public_key.pem",
-  "private_key": "keys/private_key.pem",
-  "plain_text": "data/plain.txt",
-  "encrypted_text": "data/encrypted.bin",
-  "decrypted_text": "data/decrypted.txt"
-}
